@@ -1,0 +1,16 @@
+{
+  "name": "engineprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cups.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "il",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "shelljs": "^0.8.3"
+  }
+}
